@@ -8,6 +8,7 @@ This Python script generates QR codes from a list of serial numbers and saves th
 - Pillow library installed. You can install it using `pip`:
   ```bash
   pip install Pillow
+  pip install qrcode
 
 ## Usage
 
